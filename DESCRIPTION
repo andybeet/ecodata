@@ -10,22 +10,27 @@ Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
 Date: 2018-10-24
-Suggests:
-    knitr,
-    rmarkdown,
-    dplyr,
-    stringr,
-    tidyr,
-    ggplot2,
-    lubridate,
-    tufte,
-    here,
-    usethis,
-    AICcmodavg,
-    mgcv,
-    zoo,
-    rlang,
-    kableExtra
+Imports:
+  dplyr,
+  magrittr,
+  ggplot2,
+  tidyr,
+  AICcmodavg,
+  cowplot,
+  grid,
+  nlme,
+  rpart,
+  scales,
+  sf,
+  stringr
+Suggests: 
+  knitr,
+  rmarkdown,
+  lubridate,
+  here,
+  usethis,
+  mgcv,
+  zoo
 VignetteBuilder: knitr
 RoxygenNote: 7.2.3
 Depends: 
