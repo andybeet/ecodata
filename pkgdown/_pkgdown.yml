@@ -40,6 +40,7 @@ reference:
     - theme_title
     - theme_ts
     - trans_dates
+    - starts_with("plot")
   - title: "Synthetic Indicators"
     desc: "Data files containing synthetic indicators used in the State of the Ecosystem Reports"
     contents:
