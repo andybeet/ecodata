@@ -1,6 +1,8 @@
 #' plot forage index
 #'
-#'@param report. Character string. Which SOE report ("G)
+#' Description should be here. This needs to be reworked to uncouple GB and GOM
+#'
+#' @param EPUs Character string. Which SOE report ("GB","MAB")
 #' @param shadedRegion Numeric vector. Years denoting the shaded region of the plot
 #' @param shade.fill Character string. Color of shaded region. (Default = "lightgrey)
 #' @param shade.alpha Numeric scalar. Alpha of shaded region (Default = 0.5)

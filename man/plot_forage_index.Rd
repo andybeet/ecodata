@@ -12,17 +12,17 @@ plot_forage_index(
 )
 }
 \arguments{
+\item{EPUs}{Character string. Which SOE report ("GB","MAB")}
+
 \item{shadedRegion}{Numeric vector. Years denoting the shaded region of the plot}
 
 \item{shade.fill}{Character string. Color of shaded region. (Default = "lightgrey)}
 
 \item{shade.alpha}{Numeric scalar. Alpha of shaded region (Default = 0.5)}
-
-\item{report.}{Character string. Which SOE report ("G)}
 }
 \value{
 ggplot object
 }
 \description{
-plot forage index
+Description should be here. This needs to be reworked to uncouple GB and GOM
 }
