@@ -217,6 +217,33 @@
     <loc>https://noaa-edab.github.io/ecodata/reference/phyto_size.html</loc>
   </url>
   <url>
+    <loc>https://noaa-edab.github.io/ecodata/reference/plot_bottom_temp_anomaly_glorys.html</loc>
+  </url>
+  <url>
+    <loc>https://noaa-edab.github.io/ecodata/reference/plot_bottom_temp_anomaly_space.html</loc>
+  </url>
+  <url>
+    <loc>https://noaa-edab.github.io/ecodata/reference/plot_bottom_temp_anomaly_survey.html</loc>
+  </url>
+  <url>
+    <loc>https://noaa-edab.github.io/ecodata/reference/plot_bottom_temp_anomaly_time.html</loc>
+  </url>
+  <url>
+    <loc>https://noaa-edab.github.io/ecodata/reference/plot_forage_index.html</loc>
+  </url>
+  <url>
+    <loc>https://noaa-edab.github.io/ecodata/reference/plot_sst.html</loc>
+  </url>
+  <url>
+    <loc>https://noaa-edab.github.io/ecodata/reference/plot_sst_anomaly.html</loc>
+  </url>
+  <url>
+    <loc>https://noaa-edab.github.io/ecodata/reference/plot_sst_transition_dates.html</loc>
+  </url>
+  <url>
+    <loc>https://noaa-edab.github.io/ecodata/reference/plot_sst_transition_dates_length.html</loc>
+  </url>
+  <url>
     <loc>https://noaa-edab.github.io/ecodata/reference/ppr.html</loc>
   </url>
   <url>
